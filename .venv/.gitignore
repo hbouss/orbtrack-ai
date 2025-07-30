@@ -1,0 +1,14 @@
+# Virtualenv
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Environnement
+.env
+
+# Migrations
+alembic/versions/*.pyc
